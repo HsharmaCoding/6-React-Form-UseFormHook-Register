@@ -1,0 +1,32 @@
+1. Install following package for use-form-hook.
+    > npm install react-hook-form
+
+2. Install following package for model and data validations.
+    > npm i yup
+
+3. Install following resolver to use use-form-hook with yup.
+    > npm i @hookform/resolvers
+
+4. Demo eexample of use-form-hook + yup resolver
+    > https://react-hook-form.com/api/useform/
+
+5. Handling of register attribure 
+    > https://react-hook-form.com/api/useform/register
+
+Project Information:
+
+1. react-hook-form, yup and yup resolver third partly libraries are using to handle the form state.
+2. These libraries provide rich set of features to handle the form events/values/states/validations etc.
+3. The form has been created with shared input controls and third party library.
+4. react-hook-form library is being used to handle the form values.
+5. yup library is being used to handle the form validations and model/schema.
+6. yup resolver is being used to handle yup with react-hook-form library. It acts as a middleware. 
+7. Shared HTML conrtols:
+    > components/controls/CheckBox.tsx
+    > components/controls/DropDownList.tsx
+    > components/controls/Input.tsx
+    > components/controls/RadioGroup.tsx
+8. Employee Page:
+    > components/pages/Eomployee.tsx
+
+
