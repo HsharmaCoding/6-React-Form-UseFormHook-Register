@@ -1,4 +1,4 @@
-# html form using react-hook-form, yup and yup resolver with shared html conrols and validations.
+# html form using react-hook-form (register), yup and yup resolver with shared html conrols and validations.
 1. react-hook-form, yup and yup resolver third partly libraries are using to handle the form state.
 2. These libraries provide rich set of features to handle the form events/values/states/validations etc.
 3. The form has been created with shared input controls and third party library.
